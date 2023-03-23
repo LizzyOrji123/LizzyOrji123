@@ -1,6 +1,6 @@
 # Elizabeth Orji
 <div id="header" align="center">
- <kbd> <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ4MDZiZjAzODEwODJhYThlZjNhMmYxNTlkN2VjOTVkYTJkMzcwNCZjdD1n/J3KCHKTEqkZuxAW6OQ/giphy.gif' width="100"> </kbd>
+ <kbd> <img src='https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif' width="100"> </kbd>
 </div>
 <br>
 <div id="badges" align="center">
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
    <a href="https://www.instagram.com/lizzy_orji">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/lizzy.orji">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -30,7 +30,7 @@
 </div> 
 
 <div id="middle" align="center">
- <kbd> <img src='https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif' width="400"> </kbd>
+ <kbd> <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ4MDZiZjAzODEwODJhYThlZjNhMmYxNTlkN2VjOTVkYTJkMzcwNCZjdD1n/J3KCHKTEqkZuxAW6OQ/giphy.gif' width="400"> </kbd>
 </div>
 <div id="about" align="center" >
  <br>
@@ -57,6 +57,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-plain-wordmark.svg" title="SASS"  alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="WEBPACK"  alt="WEBPACK" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original-wordmark.svg" title="FIGMA" alt="FIGMA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="HEROKU"  alt="HEROKU" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="RUBY" alt="RUBY" width="40" height="40"/>&nbsp;
