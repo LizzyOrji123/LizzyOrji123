@@ -46,7 +46,7 @@
   - :seedling: i love exploring more agile practices to write sustainable and reusable codes.
   <br>
   <br>
-  - :zap: In my free time, I read and write stories.
+  - :zap: In my free time, I read books, exercise and write stories.
 </div>
 <div id="tools" align="center">
   <br>
