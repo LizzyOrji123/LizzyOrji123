@@ -40,7 +40,7 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in London.
   <br>
   <br>
-  - :telescope: I’m working on a project called Long term live in companions.
+  - :telescope: I’m currently learning React.js.
   <br>
   <br>
   - :seedling: i love exploring more agile practices to write sustainable and reusable codes.
