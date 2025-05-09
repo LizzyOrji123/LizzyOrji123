@@ -37,10 +37,10 @@
   <strong> <h1> :woman_technologist: About Me</h1> </strong>
   <br>
   <br>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in London.
+  I am a Computer Scientist who uses data <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to work on Machine Learning and Artificial Intelligence Projects.
   <br>
   <br>
-  - :telescope: I’m currently building Techiepistle using React and Ruby.
+  - :telescope: I’m currently completing my Masters at the University of East London.
   <br>
   <br>
   - :seedling: i love exploring more agile practices to write sustainable and reusable codes.
